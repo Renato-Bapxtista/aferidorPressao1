@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/CMakeFiles/bootloader
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/CMakeFiles/bootloader.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/CMakeFiles/bootloader-complete.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/bapxtista/Documentos/Faculdade/projeto integrador/aferidorPressao1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
